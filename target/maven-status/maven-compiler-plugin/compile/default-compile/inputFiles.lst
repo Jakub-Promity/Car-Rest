@@ -1,0 +1,11 @@
+/Users/jakub.kochanczyk/workspace/playground/Cars_REST/src/main/java/com/promity/recruit/rest_cars/dto/Cars.java
+/Users/jakub.kochanczyk/workspace/playground/Cars_REST/src/main/java/com/promity/recruit/rest_cars/csv_utils/CSVReaderTool2.java
+/Users/jakub.kochanczyk/workspace/playground/Cars_REST/src/main/java/com/promity/recruit/rest_cars/csv_utils/CsvWriterTool.java
+/Users/jakub.kochanczyk/workspace/playground/Cars_REST/src/main/java/com/promity/recruit/rest_cars/services/CarService.java
+/Users/jakub.kochanczyk/workspace/playground/Cars_REST/src/main/java/com/promity/recruit/rest_cars/csv_utils/CsvConsts.java
+/Users/jakub.kochanczyk/workspace/playground/Cars_REST/src/main/java/com/promity/recruit/rest_cars/dto/CarFromCSV.java
+/Users/jakub.kochanczyk/workspace/playground/Cars_REST/src/main/java/com/promity/recruit/rest_cars/services/CarMapper.java
+/Users/jakub.kochanczyk/workspace/playground/Cars_REST/src/main/java/com/promity/recruit/rest_cars/csv_utils/CustomMappingStrategy.java
+/Users/jakub.kochanczyk/workspace/playground/Cars_REST/src/main/java/com/promity/recruit/rest_cars/model/Car.java
+/Users/jakub.kochanczyk/workspace/playground/Cars_REST/src/main/java/com/promity/recruit/rest_cars/RestCarsApplication.java
+/Users/jakub.kochanczyk/workspace/playground/Cars_REST/src/main/java/com/promity/recruit/rest_cars/controllers/CarController.java

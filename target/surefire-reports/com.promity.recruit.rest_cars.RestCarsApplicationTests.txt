@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: com.promity.recruit.rest_cars.RestCarsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.222 s <<< FAILURE! - in com.promity.recruit.rest_cars.RestCarsApplicationTests
+contextLoads  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: java.lang.reflect.UndeclaredThrowableException: 
+Failed to invoke event listener method
+HandlerMethod details: 
+Bean [com.promity.recruit.rest_cars.dto.Cars]
+Method [public void com.promity.recruit.rest_cars.dto.Cars.loadDataFromCSV() throws java.io.FileNotFoundException]
+Resolved arguments: 
+
+Caused by: java.io.FileNotFoundException: src\main\resources\data_source\samochody.csv (No such file or directory)
+
